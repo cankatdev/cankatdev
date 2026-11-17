@@ -1,123 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1160" viewBox="0 0 1100 1160" role="img" aria-labelledby="title desc">
-<title id="title">cankatdev — GitHub profile</title>
-<desc id="desc">Computer Science BSc at ELTE. Languages include Python, C, C++, C#, Haskell and Java. Selected projects include FridgeChef AI, IT Support Portal and PricePulse. Contribution and view counters await connection.</desc>
-<defs>
-  <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
-    <stop stop-color="#192b44"/><stop offset="1" stop-color="#111923"/>
-  </linearGradient>
-  <linearGradient id="feature" x1="0" y1="0" x2="1" y2="1">
-    <stop stop-color="#182d33"/><stop offset="1" stop-color="#121b23"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-    <stop stop-color="#8fc8ff"/><stop offset="1" stop-color="#8587ff"/>
-  </linearGradient>
-  <radialGradient id="glow">
-    <stop stop-color="#4476bb" stop-opacity=".17"/><stop offset="1" stop-color="#4476bb" stop-opacity="0"/>
-  </radialGradient>
-</defs>
-<rect x="1" y="1" width="1098" height="1158" rx="26" fill="#0d121b" stroke="#2b3545"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" x="34" y="29" width="20" height="20" fill="#8394aa"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" /></svg>
-<text x="65" y="44" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#a6b4c7">cankatdev / profile</text>
-<rect x="862" y="24" width="204" height="32" rx="16" fill="#151e2a" stroke="#2e3e53"/>
-<path d="M878 40 Q885 30 892 40 Q885 50 878 40" fill="none" stroke="#8ba6c7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="885" cy="40" r="2" fill="#8ba6c7"/>
-<text x="901" y="45" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#a8b8cd">Profile views</text>
-<text x="1032" y="45" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#d7e4f5">—</text>
-<rect x="32" y="78" width="1036" height="167" rx="22" fill="url(#hero)" stroke="#33455e"/>
-<ellipse cx="909" cy="161" rx="155" ry="80" fill="url(#glow)"/>
-<circle cx="105" cy="161" r="44" fill="#101a29" stroke="url(#accent)" stroke-width="2"/>
-<text x="75" y="173" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#a5cbff">&lt;/&gt;</text>
-<text x="175" y="150" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" fill="#edf2fa">cankatdev</text>
-<text x="177" y="184" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#b3c4dd">Computer Science BSc · ELTE</text>
-<text x="177" y="216" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#879cb9">Building web applications, local AI and practical tools.</text>
-<rect x="842" y="107" width="194" height="26" rx="13" fill="#1b3046" stroke="#34516f"/>
-<text x="855" y="124" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" fill="#a8cfff" letter-spacing="0.6">COMPUTER SCIENCE</text>
-<path d="M890 172 L875 186 L890 200 M983 172 L998 186 L983 200 M949 168 L934 204" fill="none" stroke="#49688f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="32" y="265" width="506" height="134" rx="18" fill="#151c26" stroke="#293444"/>
-<text x="56" y="295" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#93a3b8" letter-spacing="1.6">TOTAL CONTRIBUTIONS</text>
-<text x="56" y="347" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700" fill="#8bbcff">—</text>
-<text x="56" y="375" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#8194ae">GitHub sync pending</text>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" x="475" y="286" width="30" height="30" fill="#3d516e"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" /></svg>
-<rect x="558" y="265" width="510" height="134" rx="18" fill="#151c26" stroke="#293444"/>
-<text x="582" y="295" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#93a3b8" letter-spacing="1.6">LATEST WORK</text>
-<text x="582" y="335" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#edf2fa">PricePulse</text>
-<circle cx="588" cy="367" r="4" fill="#bba1ff"/>
-<text x="602" y="373" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#a4b6ce">ASP.NET Core · Product price tracking</text>
-<path d="M1020 291 H1034 V305 M1020 305 L1034 291" fill="none" stroke="#8198b9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="32" y="419" width="1036" height="257" rx="18" fill="#151c26" stroke="#293444"/>
-<text x="56" y="451" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#93a3b8" letter-spacing="1.6">TECH STACK</text>
-<text x="948" y="451" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" fill="#7287a2" letter-spacing="1">LANGUAGES</text>
-<rect x="56" y="469" width="158" height="86" rx="13" fill="#1b2533" stroke="#303f53"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" x="71" y="482" width="31" height="31" fill="#73b8ed"><title>Python</title><path d="M11.858 0c-.978.005-1.913.088-2.736.234C6.7.662 6.26 1.558 6.26 3.21v2.182h5.725v.727H4.111c-1.664 0-3.121 1-3.577 2.903-.526 2.181-.549 3.542 0 5.82.407 1.694 1.379 2.902 3.043 2.902h1.969v-2.616c0-1.89 1.635-3.557 3.576-3.557h5.72c1.591 0 2.862-1.31 2.862-2.91v-5.45c0-1.553-1.309-2.718-2.863-2.977A18 18 0 0 0 11.858 0M8.762 1.755c.591 0 1.074.491 1.074 1.095 0 .601-.483 1.087-1.074 1.087A1.08 1.08 0 0 1 7.688 2.85c0-.604.48-1.095 1.074-1.095m9.656 4.364v2.543c0 1.971-1.671 3.63-3.577 3.63H9.122c-1.566 0-2.862 1.34-2.862 2.91v5.452c0 1.551 1.349 2.464 2.862 2.91 1.813.532 3.55.628 5.72 0 1.44-.418 2.862-1.258 2.862-2.91V18.47h-5.719v-.727h8.582c1.664 0 2.284-1.16 2.862-2.903.598-1.793.573-3.518 0-5.819-.41-1.656-1.196-2.903-2.862-2.903zm-3.216 13.807a1.08 1.08 0 0 1 1.074 1.088c0 .604-.48 1.094-1.074 1.094-.592 0-1.075-.49-1.075-1.094 0-.601.483-1.088 1.075-1.088" /></svg>
-<text x="71" y="538" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#d1dceb">Python</text>
-<circle cx="196" cy="538" r="2.5" fill="#ffd66b"/>
-<rect x="222" y="469" width="158" height="86" rx="13" fill="#1b2533" stroke="#303f53"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="237" y="482" width="31" height="31"><path fill="#a9bacd" d="M125 50c-4-32-24-50-62-50C29 0 3 24 3 64c0 39 24 64 64 64 32 0 55-19 58-50H87c-2 11-8 20-20 20-21 0-24-16-24-33 0-23 8-35 22-35 13 0 20 7 22 20z" /></svg>
-<text x="237" y="538" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#d1dceb">C</text>
-<circle cx="362" cy="538" r="2.5" fill="#7c9cd9"/>
-<rect x="388" y="469" width="158" height="86" rx="13" fill="#1b2533" stroke="#303f53"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" x="403" y="482" width="31" height="31" fill="#80bbff"><title>C++</title><path d="M22.394 6c-.167-.29-.398-.543-.652-.69L12.926.22c-.509-.294-1.34-.294-1.848 0L2.26 5.31c-.508.293-.923 1.013-.923 1.6v10.18c0 .294.104.62.271.91.167.29.398.543.652.69l8.816 5.09c.508.293 1.34.293 1.848 0l8.816-5.09c.254-.147.485-.4.652-.69.167-.29.27-.616.27-.91V6.91c.003-.294-.1-.62-.268-.91zM12 19.11c-3.92 0-7.109-3.19-7.109-7.11 0-3.92 3.19-7.11 7.11-7.11a7.133 7.133 0 016.156 3.553l-3.076 1.78a3.567 3.567 0 00-3.08-1.78A3.56 3.56 0 008.444 12 3.56 3.56 0 0012 15.555a3.57 3.57 0 003.08-1.778l3.078 1.78A7.135 7.135 0 0112 19.11zm7.11-6.715h-.79v.79h-.79v-.79h-.79v-.79h.79v-.79h.79v.79h.79zm2.962 0h-.79v.79h-.79v-.79h-.79v-.79h.79v-.79h.79v.79h.79z" /></svg>
-<text x="403" y="538" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#d1dceb">C++</text>
-<circle cx="528" cy="538" r="2.5" fill="#80bbff"/>
-<rect x="554" y="469" width="158" height="86" rx="13" fill="#1b2533" stroke="#303f53"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="569" y="482" width="31" height="31"><path fill="#9B4F96" d="M115.4 30.7L67.1 2.9c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.4 1 3.5l106.8-62c-.6-1.2-1.5-2.1-2.4-2.7z" /><path fill="#68217A" d="M10.7 95.3c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4V36.1c0-.9-.1-1.9-.6-2.8l-106.6 62z" /><path fill="#fff" d="M85.3 76.1C81.1 83.5 73.1 88.5 64 88.5c-13.5 0-24.5-11-24.5-24.5s11-24.5 24.5-24.5c9.1 0 17.1 5 21.3 12.5l13-7.5c-6.8-11.9-19.6-20-34.3-20-21.8 0-39.5 17.7-39.5 39.5s17.7 39.5 39.5 39.5c14.6 0 27.4-8 34.2-19.8l-12.9-7.6zM97 66.2l.9-4.3h-4.2v-4.7h5.1L100 51h4.9l-1.2 6.1h3.8l1.2-6.1h4.8l-1.2 6.1h2.4v4.7h-3.3l-.9 4.3h4.2v4.7h-5.1l-1.2 6h-4.9l1.2-6h-3.8l-1.2 6h-4.8l1.2-6h-2.4v-4.7H97zm4.8 0h3.8l.9-4.3h-3.8l-.9 4.3z" /></svg>
-<text x="569" y="538" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#d1dceb">C#</text>
-<circle cx="694" cy="538" r="2.5" fill="#b48bea"/>
-<rect x="720" y="469" width="158" height="86" rx="13" fill="#1b2533" stroke="#303f53"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="735" y="482" width="31" height="31"><path fill="#463B63" d="M0 110.2L30.1 65 0 19.9h22.6L52.7 65l-30.1 45.1H0z" /><path fill="#5E5187" d="M30.1 110.2L60.2 65 30.1 19.9h22.6l60.2 90.3H90.4L71.5 81.9l-18.8 28.2H30.1z" /><path fill="#904F8C" d="M102.9 83.8l-10-15.1H128v15.1h-25.1zM87.8 61.3l-10-15.1H128v15.1H87.8z" /></svg>
-<text x="735" y="538" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#d1dceb">Haskell</text>
-<circle cx="860" cy="538" r="2.5" fill="#b695d4"/>
-<rect x="886" y="469" width="158" height="86" rx="13" fill="#1b2533" stroke="#303f53"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="901" y="482" width="31" height="31"><path fill="#0074BD" d="M47.617 98.12s-4.767 2.774 3.397 3.71c9.892 1.13 14.947.968 25.845-1.092 0 0 2.871 1.795 6.873 3.351-24.439 10.47-55.308-.607-36.115-5.969zm-2.988-13.665s-5.348 3.959 2.823 4.805c10.567 1.091 18.91 1.18 33.354-1.6 0 0 1.993 2.025 5.132 3.131-29.542 8.64-62.446.68-41.309-6.336z" /><path fill="#EA2D2E" d="M69.802 61.271c6.025 6.935-1.58 13.17-1.58 13.17s15.289-7.891 8.269-17.777c-6.559-9.215-11.587-13.792 15.635-29.58 0 .001-42.731 10.67-22.324 34.187z" /><path fill="#0074BD" d="M102.123 108.229s3.529 2.91-3.888 5.159c-14.102 4.272-58.706 5.56-71.094.171-4.451-1.938 3.899-4.625 6.526-5.192 2.739-.593 4.303-.485 4.303-.485-4.953-3.487-32.013 6.85-13.743 9.815 49.821 8.076 90.817-3.637 77.896-9.468zM49.912 70.294s-22.686 5.389-8.033 7.348c6.188.828 18.518.638 30.011-.326 9.39-.789 18.813-2.474 18.813-2.474s-3.308 1.419-5.704 3.053c-23.042 6.061-67.544 3.238-54.731-2.958 10.832-5.239 19.644-4.643 19.644-4.643zm40.697 22.747c23.421-12.167 12.591-23.86 5.032-22.285-1.848.385-2.677.72-2.677.72s.688-1.079 2-1.543c14.953-5.255 26.451 15.503-4.823 23.725 0-.002.359-.327.468-.617z" /><path fill="#EA2D2E" d="M76.491 1.587S89.459 14.563 64.188 34.51c-20.266 16.006-4.621 25.13-.007 35.559-11.831-10.673-20.509-20.07-14.688-28.815C58.041 28.42 81.722 22.195 76.491 1.587z" /><path fill="#0074BD" d="M52.214 126.021c22.476 1.437 57-.8 57.817-11.436 0 0-1.571 4.032-18.577 7.231-19.186 3.612-42.854 3.191-56.887.874 0 .001 2.875 2.381 17.647 3.331z" /></svg>
-<text x="901" y="538" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#d1dceb">Java</text>
-<circle cx="1026" cy="538" r="2.5" fill="#f19467"/>
-<text x="56" y="584" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#93a3b8" letter-spacing="1.6">FRAMEWORKS &amp; TOOLS</text>
-<rect x="56" y="599" width="241" height="50" rx="11" fill="#171f2c" stroke="#29374b"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" x="71" y="611" width="26" height="26" fill="#d9e5f3"><title>Flask</title><path d="M10.773 2.878c-.013 1.434.322 4.624.445 5.734l-8.558 3.83c-.56-.959-.98-2.304-1.237-3.38l-.06.027c-.205.09-.406.053-.494-.088l-.011-.018-.82-1.506c-.058-.105-.05-.252.024-.392a.78.78 0 0 1 .358-.331l9.824-4.207c.146-.064.299-.063.4.004.106.062.127.128.13.327Zm.68 7c.523 1.97.675 2.412.832 2.818l-7.263 3.7a19.35 19.35 0 0 1-1.81-2.83l8.24-3.689Zm12.432 8.786h.003c.283.402-.047.657-.153.698l-.947.37c.037.125.035.319-.217.414l-.736.287c-.229.09-.398-.059-.42-.2l-.025-.125c-4.427 1.784-7.94 1.685-10.696.647-1.981-.745-3.576-1.983-4.846-3.379l6.948-3.54c.721 1.431 1.586 2.454 2.509 3.178 2.086 1.638 4.415 1.712 5.793 1.563l-.047-.233c-.015-.077.007-.135.086-.165l.734-.288a.302.302 0 0 1 .342.086l.748-.288a.306.306 0 0 1 .341.086l.583.89Z" /></svg>
-<text x="109" y="630" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#b4c4db">Flask</text>
-<rect x="305" y="599" width="241" height="50" rx="11" fill="#171f2c" stroke="#29374b"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" x="320" y="611" width="26" height="26" fill="#bba2ff"><title>.NET</title><path d="M24 8.77h-2.468v7.565h-1.425V8.77h-2.462V7.53H24zm-6.852 7.565h-4.821V7.53h4.63v1.24h-3.205v2.494h2.953v1.234h-2.953v2.604h3.396zm-6.708 0H8.882L4.78 9.863a2.896 2.896 0 0 1-.258-.51h-.036c.032.189.048.592.048 1.21v5.772H3.157V7.53h1.659l3.965 6.32c.167.261.275.442.323.54h.024c-.04-.233-.06-.629-.06-1.185V7.529h1.372zm-8.703-.693a.868.829 0 0 1-.869.829.868.829 0 0 1-.868-.83.868.829 0 0 1 .868-.828.868.829 0 0 1 .869.829Z" /></svg>
-<text x="358" y="630" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#b4c4db">.NET</text>
-<rect x="554" y="599" width="241" height="50" rx="11" fill="#171f2c" stroke="#29374b"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" x="569" y="611" width="26" height="26" fill="#f68167"><title>Git</title><path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z" /></svg>
-<text x="607" y="630" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#b4c4db">Git</text>
-<rect x="803" y="599" width="241" height="50" rx="11" fill="#171f2c" stroke="#29374b"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" x="818" y="611" width="26" height="26" fill="#d9e5f3"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" /></svg>
-<text x="856" y="630" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#b4c4db">GitHub</text>
-<rect x="32" y="696" width="506" height="355" rx="18" fill="#151c26" stroke="#293444"/>
-<text x="56" y="730" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#93a3b8" letter-spacing="1.6">EXPERIENCE &amp; EDUCATION</text>
-<path d="M76 786 V952" fill="none" stroke="#324660" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="76" cy="786" r="21" fill="#1d3046"/>
-<circle cx="76" cy="786" r="21" fill="none" stroke="#3c587a"/>
-<circle cx="76" cy="949" r="21" fill="#1d3046"/>
-<circle cx="76" cy="949" r="21" fill="none" stroke="#3c587a"/>
-<path d="M64 784 L76 778 L88 784 L76 790 Z M68 787 V793 Q76 799 84 793 V787 M89 785 V794" fill="none" stroke="#a5c9f4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="113" y="777" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#93a3b8" letter-spacing="1.6">EDUCATION</text>
-<text x="113" y="807" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#edf2fa">ELTE</text>
-<text x="113" y="836" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#aebed4">Computer Science BSc</text>
-<text x="113" y="862" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#7e93af">Eötvös Loránd University</text>
-<path d="M69 941 H83 V950 Q76 960 69 950 Z M69 943 H65 V947 Q65 953 71 952 M83 943 H87 V947 Q87 953 81 952 M76 956 V962 M70 963 H82" fill="none" stroke="#a5c9f4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="113" y="936" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#93a3b8" letter-spacing="1.6">HACKATHON</text>
-<text x="113" y="966" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#edf2fa">FridgeChef AI</text>
-<text x="113" y="994" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#aebed4">Hackathon award recipient</text>
-<text x="113" y="1021" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#7e93af">Local AI · Recipe generation</text>
-<rect x="558" y="696" width="510" height="223" rx="18" fill="url(#feature)" stroke="#365453"/>
-<text x="582" y="730" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#93a3b8" letter-spacing="1.6">FEATURED PROJECT</text>
-<rect x="902" y="714" width="142" height="26" rx="13" fill="#203d36" stroke="#355c50"/>
-<text x="915" y="731" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" fill="#a4dfc8" letter-spacing="0.6">HACKATHON AWARD</text>
-<text x="582" y="777" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#edf2fa">FridgeChef AI</text>
-<text x="582" y="811" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#b4cbd0">Turn fridge ingredients into meal ideas.</text>
-<text x="582" y="837" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#91acb4">Photo analysis · Dietary preferences · Local AI</text>
-<path d="M582 859 H1044" fill="none" stroke="#2e464d" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="582" y="891" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#8fd1bc">Python / Flask / Ollama</text>
-<path d="M1020 877 H1034 V891 M1020 891 L1034 877" fill="none" stroke="#8fd1bc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="558" y="939" width="510" height="112" rx="18" fill="#151c26" stroke="#293444"/>
-<text x="582" y="968" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#93a3b8" letter-spacing="1.6">ALSO BUILT</text>
-<text x="582" y="999" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#edf2fa">IT Support Portal</text>
-<text x="582" y="1028" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#9eb3ce">Power Apps · Dataverse · Power Automate</text>
-<path d="M1020 961 H1034 V975 M1020 975 L1034 961" fill="none" stroke="#8198b9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M32 1077 H1068" fill="none" stroke="#29374a" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" x="34" y="1099" width="20" height="20" fill="#8093ae"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" /></svg>
-<text x="65" y="1115" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#93a9c6">github.com/cankatdev</text>
-<text x="782" y="1115" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600" fill="#7289a8" letter-spacing="0.6">PREVIEW · COUNTERS PENDING</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="842" viewBox="0 0 1000 842" role="img" aria-labelledby="title desc">
+<title id="title">cankatdev GitHub profile</title>
+<desc id="desc">Automatically refreshed public GitHub contributions, latest selected project, technology stack and education.</desc>
+<rect x="1" y="1" width="998" height="840" rx="20" fill="#090909" stroke="#292929"/>
+<circle cx="80" cy="82" r="35" fill="#141a24" stroke="#3889ff" stroke-width="2"/>
+<text x="58" y="91" fill="#83b6ff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="0">&lt;/&gt;</text>
+<text x="136" y="79" fill="#efefef" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" letter-spacing="0">cankatdev</text>
+<text x="136" y="108" fill="#aaaaaa" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" letter-spacing="0">Building web applications and exploring local AI.</text>
+<rect x="44" y="151" width="443" height="125" rx="15" fill="#171717" stroke="#292929"/>
+<rect x="509" y="151" width="447" height="125" rx="15" fill="#171717" stroke="#292929"/>
+<text x="66" y="181" fill="#9b9b9b" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">TOTAL CONTRIBUTIONS</text>
+<text x="66" y="226" fill="#3889ff" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" letter-spacing="0">41</text>
+<text x="66" y="253" fill="#858585" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" letter-spacing="0">Past 12 months · Public GitHub activity</text>
+<text x="531" y="181" fill="#9b9b9b" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">LATEST WORK</text>
+<text x="531" y="220" fill="#efefef" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="0">FridgeChef-AI</text>
+<circle cx="536" cy="245" r="5" fill="#3572A5"/>
+<text x="549" y="251" fill="#aaaaaa" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" letter-spacing="0">Python</text>
+<rect x="44" y="296" width="912" height="143" rx="15" fill="#171717" stroke="#292929"/>
+<text x="66" y="326" fill="#9b9b9b" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">TECH STACK</text>
+<rect x="66" y="345" width="46" height="44" rx="9" fill="#252525" stroke="#252525"/>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" x="74" y="353" width="28" height="28" fill="#69a7d6"><title>Python</title><path d="M11.858 0c-.978.005-1.913.088-2.736.234C6.7.662 6.26 1.558 6.26 3.21v2.182h5.725v.727H4.111c-1.664 0-3.121 1-3.577 2.903-.526 2.181-.549 3.542 0 5.82.407 1.694 1.379 2.902 3.043 2.902h1.969v-2.616c0-1.89 1.635-3.557 3.576-3.557h5.72c1.591 0 2.862-1.31 2.862-2.91v-5.45c0-1.553-1.309-2.718-2.863-2.977A18 18 0 0 0 11.858 0M8.762 1.755c.591 0 1.074.491 1.074 1.095 0 .601-.483 1.087-1.074 1.087A1.08 1.08 0 0 1 7.688 2.85c0-.604.48-1.095 1.074-1.095m9.656 4.364v2.543c0 1.971-1.671 3.63-3.577 3.63H9.122c-1.566 0-2.862 1.34-2.862 2.91v5.452c0 1.551 1.349 2.464 2.862 2.91 1.813.532 3.55.628 5.72 0 1.44-.418 2.862-1.258 2.862-2.91V18.47h-5.719v-.727h8.582c1.664 0 2.284-1.16 2.862-2.903.598-1.793.573-3.518 0-5.819-.41-1.656-1.196-2.903-2.862-2.903zm-3.216 13.807a1.08 1.08 0 0 1 1.074 1.088c0 .604-.48 1.094-1.074 1.094-.592 0-1.075-.49-1.075-1.094 0-.601.483-1.088 1.075-1.088" /></svg>
+<text x="66" y="413" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="0">Python</text>
+<rect x="153" y="345" width="46" height="44" rx="9" fill="#252525" stroke="#252525"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="161" y="353" width="28" height="28"><path fill="#a9bacd" d="M125 50c-4-32-24-50-62-50C29 0 3 24 3 64c0 39 24 64 64 64 32 0 55-19 58-50H87c-2 11-8 20-20 20-21 0-24-16-24-33 0-23 8-35 22-35 13 0 20 7 22 20z" /></svg>
+<text x="153" y="413" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="0">C</text>
+<rect x="240" y="345" width="46" height="44" rx="9" fill="#252525" stroke="#252525"/>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" x="248" y="353" width="28" height="28" fill="#659ad2"><title>C++</title><path d="M22.394 6c-.167-.29-.398-.543-.652-.69L12.926.22c-.509-.294-1.34-.294-1.848 0L2.26 5.31c-.508.293-.923 1.013-.923 1.6v10.18c0 .294.104.62.271.91.167.29.398.543.652.69l8.816 5.09c.508.293 1.34.293 1.848 0l8.816-5.09c.254-.147.485-.4.652-.69.167-.29.27-.616.27-.91V6.91c.003-.294-.1-.62-.268-.91zM12 19.11c-3.92 0-7.109-3.19-7.109-7.11 0-3.92 3.19-7.11 7.11-7.11a7.133 7.133 0 016.156 3.553l-3.076 1.78a3.567 3.567 0 00-3.08-1.78A3.56 3.56 0 008.444 12 3.56 3.56 0 0012 15.555a3.57 3.57 0 003.08-1.778l3.078 1.78A7.135 7.135 0 0112 19.11zm7.11-6.715h-.79v.79h-.79v-.79h-.79v-.79h.79v-.79h.79v.79h.79zm2.962 0h-.79v.79h-.79v-.79h-.79v-.79h.79v-.79h.79v.79h.79z" /></svg>
+<text x="240" y="413" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="0">C++</text>
+<rect x="327" y="345" width="46" height="44" rx="9" fill="#252525" stroke="#252525"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="335" y="353" width="28" height="28"><path fill="#9B4F96" d="M115.4 30.7L67.1 2.9c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.4 1 3.5l106.8-62c-.6-1.2-1.5-2.1-2.4-2.7z" /><path fill="#68217A" d="M10.7 95.3c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4V36.1c0-.9-.1-1.9-.6-2.8l-106.6 62z" /><path fill="#fff" d="M85.3 76.1C81.1 83.5 73.1 88.5 64 88.5c-13.5 0-24.5-11-24.5-24.5s11-24.5 24.5-24.5c9.1 0 17.1 5 21.3 12.5l13-7.5c-6.8-11.9-19.6-20-34.3-20-21.8 0-39.5 17.7-39.5 39.5s17.7 39.5 39.5 39.5c14.6 0 27.4-8 34.2-19.8l-12.9-7.6zM97 66.2l.9-4.3h-4.2v-4.7h5.1L100 51h4.9l-1.2 6.1h3.8l1.2-6.1h4.8l-1.2 6.1h2.4v4.7h-3.3l-.9 4.3h4.2v4.7h-5.1l-1.2 6h-4.9l1.2-6h-3.8l-1.2 6h-4.8l1.2-6h-2.4v-4.7H97zm4.8 0h3.8l.9-4.3h-3.8l-.9 4.3z" /></svg>
+<text x="327" y="413" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="0">C#</text>
+<rect x="414" y="345" width="46" height="44" rx="9" fill="#252525" stroke="#252525"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="422" y="353" width="28" height="28"><path fill="#463B63" d="M0 110.2L30.1 65 0 19.9h22.6L52.7 65l-30.1 45.1H0z" /><path fill="#5E5187" d="M30.1 110.2L60.2 65 30.1 19.9h22.6l60.2 90.3H90.4L71.5 81.9l-18.8 28.2H30.1z" /><path fill="#904F8C" d="M102.9 83.8l-10-15.1H128v15.1h-25.1zM87.8 61.3l-10-15.1H128v15.1H87.8z" /></svg>
+<text x="414" y="413" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="0">Haskell</text>
+<rect x="501" y="345" width="46" height="44" rx="9" fill="#252525" stroke="#252525"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="509" y="353" width="28" height="28"><path fill="#0074BD" d="M47.617 98.12s-4.767 2.774 3.397 3.71c9.892 1.13 14.947.968 25.845-1.092 0 0 2.871 1.795 6.873 3.351-24.439 10.47-55.308-.607-36.115-5.969zm-2.988-13.665s-5.348 3.959 2.823 4.805c10.567 1.091 18.91 1.18 33.354-1.6 0 0 1.993 2.025 5.132 3.131-29.542 8.64-62.446.68-41.309-6.336z" /><path fill="#EA2D2E" d="M69.802 61.271c6.025 6.935-1.58 13.17-1.58 13.17s15.289-7.891 8.269-17.777c-6.559-9.215-11.587-13.792 15.635-29.58 0 .001-42.731 10.67-22.324 34.187z" /><path fill="#0074BD" d="M102.123 108.229s3.529 2.91-3.888 5.159c-14.102 4.272-58.706 5.56-71.094.171-4.451-1.938 3.899-4.625 6.526-5.192 2.739-.593 4.303-.485 4.303-.485-4.953-3.487-32.013 6.85-13.743 9.815 49.821 8.076 90.817-3.637 77.896-9.468zM49.912 70.294s-22.686 5.389-8.033 7.348c6.188.828 18.518.638 30.011-.326 9.39-.789 18.813-2.474 18.813-2.474s-3.308 1.419-5.704 3.053c-23.042 6.061-67.544 3.238-54.731-2.958 10.832-5.239 19.644-4.643 19.644-4.643zm40.697 22.747c23.421-12.167 12.591-23.86 5.032-22.285-1.848.385-2.677.72-2.677.72s.688-1.079 2-1.543c14.953-5.255 26.451 15.503-4.823 23.725 0-.002.359-.327.468-.617z" /><path fill="#EA2D2E" d="M76.491 1.587S89.459 14.563 64.188 34.51c-20.266 16.006-4.621 25.13-.007 35.559-11.831-10.673-20.509-20.07-14.688-28.815C58.041 28.42 81.722 22.195 76.491 1.587z" /><path fill="#0074BD" d="M52.214 126.021c22.476 1.437 57-.8 57.817-11.436 0 0-1.571 4.032-18.577 7.231-19.186 3.612-42.854 3.191-56.887.874 0 .001 2.875 2.381 17.647 3.331z" /></svg>
+<text x="501" y="413" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="0">Java</text>
+<rect x="588" y="345" width="46" height="44" rx="9" fill="#252525" stroke="#252525"/>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" x="596" y="353" width="28" height="28" fill="#dddddd"><title>Flask</title><path d="M10.773 2.878c-.013 1.434.322 4.624.445 5.734l-8.558 3.83c-.56-.959-.98-2.304-1.237-3.38l-.06.027c-.205.09-.406.053-.494-.088l-.011-.018-.82-1.506c-.058-.105-.05-.252.024-.392a.78.78 0 0 1 .358-.331l9.824-4.207c.146-.064.299-.063.4.004.106.062.127.128.13.327Zm.68 7c.523 1.97.675 2.412.832 2.818l-7.263 3.7a19.35 19.35 0 0 1-1.81-2.83l8.24-3.689Zm12.432 8.786h.003c.283.402-.047.657-.153.698l-.947.37c.037.125.035.319-.217.414l-.736.287c-.229.09-.398-.059-.42-.2l-.025-.125c-4.427 1.784-7.94 1.685-10.696.647-1.981-.745-3.576-1.983-4.846-3.379l6.948-3.54c.721 1.431 1.586 2.454 2.509 3.178 2.086 1.638 4.415 1.712 5.793 1.563l-.047-.233c-.015-.077.007-.135.086-.165l.734-.288a.302.302 0 0 1 .342.086l.748-.288a.306.306 0 0 1 .341.086l.583.89Z" /></svg>
+<text x="588" y="413" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="0">Flask</text>
+<rect x="675" y="345" width="46" height="44" rx="9" fill="#252525" stroke="#252525"/>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" x="683" y="353" width="28" height="28" fill="#aa8af6"><title>.NET</title><path d="M24 8.77h-2.468v7.565h-1.425V8.77h-2.462V7.53H24zm-6.852 7.565h-4.821V7.53h4.63v1.24h-3.205v2.494h2.953v1.234h-2.953v2.604h3.396zm-6.708 0H8.882L4.78 9.863a2.896 2.896 0 0 1-.258-.51h-.036c.032.189.048.592.048 1.21v5.772H3.157V7.53h1.659l3.965 6.32c.167.261.275.442.323.54h.024c-.04-.233-.06-.629-.06-1.185V7.529h1.372zm-8.703-.693a.868.829 0 0 1-.869.829.868.829 0 0 1-.868-.83.868.829 0 0 1 .868-.828.868.829 0 0 1 .869.829Z" /></svg>
+<text x="675" y="413" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="0">.NET</text>
+<rect x="762" y="345" width="46" height="44" rx="9" fill="#252525" stroke="#252525"/>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" x="770" y="353" width="28" height="28" fill="#f16a51"><title>Git</title><path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z" /></svg>
+<text x="762" y="413" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="0">Git</text>
+<rect x="849" y="345" width="46" height="44" rx="9" fill="#252525" stroke="#252525"/>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" x="857" y="353" width="28" height="28" fill="#eeeeee"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" /></svg>
+<text x="849" y="413" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="0">GitHub</text>
+<rect x="44" y="459" width="443" height="293" rx="15" fill="#171717" stroke="#292929"/>
+<text x="66" y="490" fill="#9b9b9b" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">EXPERIENCE &amp; EDUCATION</text>
+<path d="M81 528 V666" stroke="#303030" stroke-width="2"/>
+<circle cx="81" cy="537" r="17" fill="#252525"/>
+<text x="74" y="541" fill="#7b9ac5" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0">01</text>
+<circle cx="81" cy="665" r="17" fill="#252525"/>
+<text x="74" y="669" fill="#7b9ac5" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0">02</text>
+<text x="113" y="535" fill="#efefef" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="0">ELTE</text>
+<text x="113" y="561" fill="#b7b7b7" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" letter-spacing="0">Computer Science BSc</text>
+<text x="113" y="587" fill="#858585" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" letter-spacing="0">Eötvös Loránd University</text>
+<text x="113" y="661" fill="#efefef" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="0">FridgeChef AI</text>
+<text x="113" y="687" fill="#b7b7b7" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" letter-spacing="0">Hackathon award recipient</text>
+<text x="113" y="713" fill="#858585" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" letter-spacing="0">Local AI · Recipe generation</text>
+<rect x="509" y="459" width="447" height="170" rx="15" fill="#171717" stroke="#292929"/>
+<text x="531" y="490" fill="#9b9b9b" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">FEATURED PROJECT</text>
+<text x="531" y="531" fill="#efefef" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="0">FridgeChef AI</text>
+<text x="531" y="559" fill="#aaaaaa" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" letter-spacing="0">Meal ideas from fridge photos.</text>
+<text x="531" y="600" fill="#88b3ed" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" letter-spacing="0">Python · Flask · Ollama</text>
+<rect x="509" y="649" width="447" height="103" rx="15" fill="#171717" stroke="#292929"/>
+<text x="531" y="679" fill="#9b9b9b" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">ALSO BUILT</text>
+<text x="531" y="709" fill="#efefef" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="0">IT Support Portal</text>
+<text x="531" y="736" fill="#aaaaaa" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" letter-spacing="0">Power Apps · Dataverse · Power Automate</text>
+<path d="M44 776 H956" stroke="#252525"/>
+<text x="44" y="808" fill="#858585" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" letter-spacing="0">Computer Science BSc at ELTE</text>
+<text x="570" y="808" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" letter-spacing="0">GitHub sync · 17 Nov 2026 · 19:00 UTC</text>
 </svg>

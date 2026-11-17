@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from html import escape
 import json
 import os
+import re
 from pathlib import Path
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -164,13 +165,30 @@ def publish(svg, token):
     if previous == svg:
         print('Profile is already current')
         return
-    api(path, token, {
+    result = api(path, token, {
         'message': 'Refresh public GitHub profile data',
         'branch': 'main',
         'sha': current['sha'],
         'content': base64.b64encode(svg.encode()).decode(),
     }, method='PUT')
-    print('Profile card refreshed')
+    # Immutable image URLs prevent GitHub's image proxy from retaining an older card.
+    commit = result['commit']['sha']
+    readme_path = 'repos/' + repository + '/contents/README.md'
+    readme = api(readme_path + '?ref=main', token)
+    content = base64.b64decode(readme['content']).decode()
+    image_url = 'https://raw.githubusercontent.com/' + repository + '/' + commit + '/profile-card.svg'
+    pattern = r'!\[cankatdev profile[^\]]*\]\([^\n)]+\)'
+    replacement = '![cankatdev profile — refreshed automatically from GitHub](' + image_url + ')'
+    updated, count = re.subn(pattern, replacement, content)
+    if count != 1:
+        raise RuntimeError('Expected exactly one profile image in README')
+    api(readme_path, token, {
+        'message': 'Point README at the refreshed profile card',
+        'branch': 'main',
+        'sha': readme['sha'],
+        'content': base64.b64encode(updated.encode()).decode(),
+    }, method='PUT')
+    print('Profile card and README image refreshed')
 
 
 def main():

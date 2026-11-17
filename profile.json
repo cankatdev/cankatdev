@@ -1,0 +1,28 @@
+{
+  "username": "cankatdev",
+  "subtitle": "Computer Science BSc at ELTE",
+  "tagline": "Building web applications and exploring local AI.",
+  "education": {
+    "institution": "Eötvös Loránd University",
+    "degree": "Computer Science BSc"
+  },
+  "hackathon": {
+    "project": "FridgeChef AI",
+    "achievement": "Hackathon award recipient"
+  },
+  "projects": ["FridgeChef-AI", "it-support-portal-power-platform", "PricePulse"],
+  "languages": [
+    {"icon": "python", "label": "Python", "color": "#69a7d6"},
+    {"icon": "c", "label": "C"},
+    {"icon": "cplusplus", "label": "C++", "color": "#659ad2"},
+    {"icon": "csharp", "label": "C#"},
+    {"icon": "haskell", "label": "Haskell"},
+    {"icon": "java", "label": "Java"}
+  ],
+  "tools": [
+    {"icon": "flask", "label": "Flask", "color": "#dddddd"},
+    {"icon": "dotnet", "label": ".NET", "color": "#aa8af6"},
+    {"icon": "git", "label": "Git", "color": "#f16a51"},
+    {"icon": "github", "label": "GitHub", "color": "#eeeeee"}
+  ]
+}

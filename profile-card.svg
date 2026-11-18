@@ -9,7 +9,7 @@
 <rect x="44" y="151" width="443" height="125" rx="15" fill="#171717" stroke="#292929"/>
 <rect x="509" y="151" width="447" height="125" rx="15" fill="#171717" stroke="#292929"/>
 <text x="66" y="181" fill="#9b9b9b" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">TOTAL CONTRIBUTIONS</text>
-<text x="66" y="226" fill="#3889ff" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" letter-spacing="0">43</text>
+<text x="66" y="226" fill="#3889ff" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" letter-spacing="0">52</text>
 <text x="66" y="253" fill="#858585" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" letter-spacing="0">Past 12 months · Public GitHub activity</text>
 <text x="531" y="181" fill="#9b9b9b" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">LATEST WORK</text>
 <text x="531" y="220" fill="#efefef" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="0">FridgeChef-AI</text>
@@ -71,5 +71,5 @@
 <text x="531" y="736" fill="#aaaaaa" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" letter-spacing="0">Power Apps · Dataverse · Power Automate</text>
 <path d="M44 776 H956" stroke="#252525"/>
 <text x="44" y="808" fill="#858585" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" letter-spacing="0">Computer Science BSc at ELTE</text>
-<text x="570" y="808" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" letter-spacing="0">GitHub sync · 17 Nov 2026 · 19:03 UTC</text>
+<text x="570" y="808" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" letter-spacing="0">GitHub sync · 18 Nov 2026 · 07:42 UTC</text>
 </svg>

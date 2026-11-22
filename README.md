@@ -13,7 +13,7 @@
 
 <br />
 
-![cankatdev profile — refreshed automatically from GitHub](https://raw.githubusercontent.com/cankatdev/cankatdev/7e0dc4d15b21d72ce016079eca515b16b6e8696f/profile-card.svg)
+![cankatdev profile — refreshed automatically from GitHub](https://raw.githubusercontent.com/cankatdev/cankatdev/68b161611fcc97ca3557522de9b206c6f2f61f63/profile-card.svg)
 
 <p>
 <a href="https://github.com/cankatdev/FridgeChef-AI">FridgeChef AI</a> ·
